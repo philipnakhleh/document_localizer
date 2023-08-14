@@ -1,0 +1,7 @@
+tensorflow==2.0.0
+opencv-python
+numpy
+scipy
+pandas
+matplotlib
+fastapi
