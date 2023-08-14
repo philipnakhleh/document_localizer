@@ -7,3 +7,4 @@ matplotlib
 fastapi
 uvicorn
 python-multipart
+protobuf==3.20.*
