@@ -5,3 +5,5 @@ scipy
 pandas
 matplotlib
 fastapi
+uvicorn
+python-multipart
